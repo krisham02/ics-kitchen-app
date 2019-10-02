@@ -1,0 +1,19 @@
+<html>
+    
+    <head>
+    <button style="color: red">Back</button>
+        <Br></Br>
+    </head>
+<body>
+    <H3 Style="background-color: blueviolet">Name Of item</H3>
+    
+       <form action="/action_page.php" style="color: blueviolet">  Enter Item Name <br><input type="text" name="Item name"><br>
+  <input type="submit" value="Submit">
+</form>
+    <br>
+    <form action="/action_page.php" style="color: blueviolet" >
+  Enter Expiry Date <br><input type="text" name="Expiry date"><br>
+  <input type="submit" value="Submit">
+</form>
+    </body>
+</html>
